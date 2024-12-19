@@ -87,7 +87,7 @@ $ python -m pytest tests
 
 #### > I keep getting a CHALLENGE!?!
 
-Linkedin will throw you a curve ball in the form of a Challenge URL. We currently don't handle this, and so you're kinda screwed. We think it could be only IP-based (i.e. logging in from different location). Your best chance at resolution is to log out and log back in on your browser.
+Linkedin will throw you a curve ball in the form of a Challenge URL. We currently don't handle this, and so you're kinda screwed. We think it could be only IP-based (i.e. logging in from different location). Your best chance at resolution is to log out and log back in on your browser. You may also need to delete all listed "Devices that remember your password" under Sign in & security.
 
 ##### Known reasons for Challenge:
 
